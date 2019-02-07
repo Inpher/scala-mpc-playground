@@ -1,0 +1,7 @@
+.class
+target/
+
+#ide specific
+.metals/
+.bloop/
+.vscode/
